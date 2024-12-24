@@ -1,0 +1,19 @@
+div{
+    text-align: center;
+    background: url(https://media4.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif?cid=6c09b952256mr9h7jnlk1cux84flw6fzkjju80dy4lxzmz3t&ep=v1_gifs_search&rid=giphy.gif&ct=g)center/cover;
+    padding: 150px;
+}
+h1{
+    font-size: 50px;
+    color: aliceblue;
+}
+p{
+    font-size: 50px;
+    color: aliceblue;
+}
+button{
+    padding: 15px;
+    font-size: 30px;
+    background-color: aqua;
+    border-radius: 30px;
+}
